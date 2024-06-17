@@ -1,5 +1,14 @@
-## Hi there 👋
+# ![https://murtidev.com](./Logo1.png) Hola, mi nombre es Jc Murti 👋
+### Software Developer | Kotlin, Java, Swift, Python, JS, Oracle, XML, Git, ERP
 
+![https://github.com/MurtiDev](./logoo.jpg)
+
+🔸Apasionado en el aprendizaje de todo tipo de lenguajes de programación y herramientas.
+Especial interés en IA y Ciberseguridad.
+
+
+## Encuéntrame en:
+![(https://youtube.com/@MurtiDeveloper]
 <!--
 **MurtiDev/MurtiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
